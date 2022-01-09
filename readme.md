@@ -1,4 +1,4 @@
-**Custom Qt Widget for Audio Developement**
+**Custom Qt Widget for Audio Development**
 
 -------------
 
